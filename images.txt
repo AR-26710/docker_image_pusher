@@ -1,1 +1,1 @@
-leomoonstudios/wiki-go:latest
+halohub/halo-pro:2.20.0
