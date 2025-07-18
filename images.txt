@@ -1,1 +1,1 @@
-casbin/casdoor:v1.976.0
+pgvector/pgvector:pg17
