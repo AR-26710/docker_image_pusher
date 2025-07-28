@@ -1,1 +1,1 @@
-qyg2297248353/acg-faka:v1.3.9
+lobehub/lobe-chat-database:1.105.0
