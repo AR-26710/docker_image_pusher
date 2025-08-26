@@ -1,1 +1,1 @@
-lobehub/lobe-chat-database:1.105.0
+fre123dev/fre123-nav-api:v0.1.0
