@@ -1,1 +1,1 @@
-lobehub/lobe-chat-database:1.121.1
+ghcr.io/nezhahq/nezha:v1.14.9
