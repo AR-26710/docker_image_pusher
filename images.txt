@@ -1,1 +1,1 @@
-halohub/halo-pro:2.22.0
+halohub/halo-pro:2.22.0-alpha.3
