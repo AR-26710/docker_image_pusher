@@ -1,1 +1,1 @@
-halohub/halo-pro:2.22.9
+lobehub/lobehub:2.0.0-next.315
