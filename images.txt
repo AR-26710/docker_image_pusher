@@ -1,2 +1,1 @@
-casbin/casdoor:2.325.0
-lobehub/lobe-chat-database:1.143.3
+lobehub/lobehub:2.1.30
