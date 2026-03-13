@@ -1,1 +1,2 @@
-lobehub/lobe-chat-database:1.159.0
+imaegoo/twikoo:arm32v7
+artalk/artalk-go:2.9
