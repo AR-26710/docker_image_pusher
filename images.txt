@@ -1,2 +1,1 @@
-imaegoo/twikoo:arm32v7
-artalk/artalk-go:2.9
+postgres:18.3-alpine
